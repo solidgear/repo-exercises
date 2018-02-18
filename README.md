@@ -1,3 +1,3 @@
-# repo-exercises
+# Weather forecast app.
 
-Repository to fiddle around with Git.
+This app is able to guess the weather that will happen tomorrow.
