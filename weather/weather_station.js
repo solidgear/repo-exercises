@@ -1,12 +1,12 @@
 
 var POSSIBLE_WEATHERS = [
-    'Sol',
-    'Nubes y claros',
-    'Niebla',
-    'Tormenta',
-    'Ola de calor',
-    'Ciclogénesis explosiva',
-    'Granizo'
+    'Sol ☀️',
+    'Nubes y claros ⛅️',
+    'Niebla 🌁',
+    'Tormenta ⚡️',
+    'Ola de calor ♨️',
+    'Ciclogénesis explosiva 🌬 🌊 ⛈ 💣 💥',
+    'Granizo 🎾🎾'
 ];
 
 function getRandomElement(items) {
