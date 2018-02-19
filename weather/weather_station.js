@@ -5,7 +5,8 @@ var POSSIBLE_WEATHERS = [
     'Niebla 🌁',
     'Tormenta ⚡️',
     'Ola de calor ♨️',
-    'Ciclogénesis explosiva 🌬 🌊 ⛈ 💣 💥'
+    'Ciclogénesis explosiva 🌬 🌊 ⛈ 💣 💥',
+    'Granizo 🎾🎾'
 ];
 
 function getRandomElement(items) {
